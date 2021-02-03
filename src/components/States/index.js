@@ -1,0 +1,1 @@
+export { PrenderLuz } from './PrenderLuz'

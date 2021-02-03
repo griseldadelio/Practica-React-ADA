@@ -1,0 +1,27 @@
+i {
+    font-size: 20px;
+    padding: 5px;
+  }
+  
+  .rojo {
+    color: red;
+  }
+  .verde {
+    color: green;
+  }
+  .amarillo {
+    color: yellow;
+  }
+  
+  .texto {
+    font-weight: bolder;
+    margin-left: 20px;
+  }
+  
+  .block {
+    display: inline-block;
+  }
+  
+  .none {
+    display: none;
+  }
